@@ -1,0 +1,15 @@
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.csproj.AssemblyReference.cache
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.AssemblyInfoInputs.cache
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.AssemblyInfo.cs
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.csproj.CoreCompileInputs.cache
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/bin/Debug/net6.0/task002
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/bin/Debug/net6.0/task002.deps.json
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/bin/Debug/net6.0/task002.runtimeconfig.json
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/bin/Debug/net6.0/task002.dll
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/bin/Debug/net6.0/task002.pdb
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.dll
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/refint/task002.dll
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.pdb
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/task002.genruntimeconfig.cache
+/Users/fly2moon/Desktop/sem1_homework/homework/task002/obj/Debug/net6.0/ref/task002.dll
